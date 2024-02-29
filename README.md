@@ -13,7 +13,7 @@ After achived this procedures, you will get the powerful *Kali Linux USB Live Bo
 3. Download the *ISO* 64-bit from [https://www.kali.org/get-kali/#kali-installer-images](https://www.kali.org/get-kali/#kali-installer-images)
 
 ## Let's get started
-If you don't wan to walk alone, let's see this video and do it together!
+If you don't want to walk alone, let's see this video and do it together!
 
 [![GeekSloth's how to make Kali Linux USB Live Boot with Encrypted Persistence](https://img.youtube.com/vi/Ob8XsIZZwGw/0.jpg)](https://www.youtube.com/watch?v=Ob8XsIZZwGw)
 
