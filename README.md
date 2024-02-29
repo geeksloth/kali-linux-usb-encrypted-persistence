@@ -2,6 +2,7 @@
 GeekSloth's basic example of making Kali Linux USB Liveboot with Encrypted Persistence.
 
 After achived this procedures, you will get the incredible `Kali Linux` USB Live Boot with `Encrypted Persistence` to be used in your daily GEEK LIFE. Especially in educational purposes, your security, your privacy, and for `ETHICAL Hacking`. I've reviewed some of the result in this video, don't forget to check it out (click the below thumbnail to see the video):
+
 [![GeekSloth's review of Kali Linux USB Live Boot with Encrypted Persistence](https://img.youtube.com/vi/ZUuXnljSLNI/0.jpg)](https://www.youtube.com/watch?v=ZUuXnljSLNI)
 
 ## Prerequisites
@@ -11,6 +12,7 @@ After achived this procedures, you will get the incredible `Kali Linux` USB Live
 
 ## Let's get started
 If you don't wan to walk alone, let's see this video and do it together!
+
 [![GeekSloth's how to make Kali Linux USB Live Boot with Encrypted Persistence](https://img.youtube.com/vi/Ob8XsIZZwGw/0.jpg)](https://www.youtube.com/watch?v=Ob8XsIZZwGw)
 
 1. Open a terminal and navigate `cd` to your downloaded *ISO* file folder, ie. *Downloads* folder:
