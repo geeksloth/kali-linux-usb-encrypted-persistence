@@ -5,7 +5,7 @@ After achived this procedures, you will get the powerful *Kali Linux USB Live Bo
 
 [![GeekSloth's review of Kali Linux USB Live Boot with Encrypted Persistence](https://img.youtube.com/vi/ZUuXnljSLNI/0.jpg)](https://www.youtube.com/watch?v=ZUuXnljSLNI)
 
-*สำหรับภาษาไทย แนะนำให้ดูในคลิป Youtube ได้เลยนะครับ คลิกที่รูปข้างล่างได้เลยครับ คลิปแรกเป็นการสาธิการใช้งานเบื้องต้น คลิปที่สองเป็นวิธีทำครับ*
+*สำหรับภาษาไทย แนะนำให้ดูในคลิป Youtube ได้เลยนะครับ คลิกที่รูปได้เลยครับ คลิปแรกเป็นการสาธิการใช้งานเบื้องต้น คลิปที่สองเป็นวิธีทำครับ*
 
 ## Prerequisites
 1. USB 3.0 (or above) Thumbdrive. I recommend to use at least 64GB.
