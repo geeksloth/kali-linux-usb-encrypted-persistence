@@ -45,10 +45,11 @@ When fdisk completes, the new partition should have been created at /dev/sda3; t
 ```bash
 sudo cryptsetup --verbose --verify-passphrase luksFormat /dev/sda3
 ```
+Type `YES` in **capital letters** to confirm your decision. Then enter your desire secret **PASSWORD** to encrypt the partition.
 ```bash
 sudo cryptsetup luksOpen /dev/sda3 my_usb
 ```
-
+Enter your secret **PASSWORD** from the previous step to open the volume.
 
 5. Making Persistence for the *Encrypted* partition, and then label it:
 ```bash
@@ -81,6 +82,11 @@ sudo cryptsetup luksClose /dev/mapper/my_usb
 
 ## Congratulation!
 You just finished this tutorial. Just close everthing and pull off the *USB Thumbdrive*, which is now called **Kali Linux USB Live Boot Encrypted Persistence**, from the *PC*. Then let's try it by yourself!
+
+Try your magic USB by using it as I did in this video:
+
+[![GeekSloth's review of Kali Linux USB Live Boot with Encrypted Persistence](https://img.youtube.com/vi/ZUuXnljSLNI/0.jpg)](https://www.youtube.com/watch?v=ZUuXnljSLNI)
+
 
 **Share with love:** I made this tutorial and related videos with a heart of *sharing*, *educational purposes*, myself (and yourself) security and privacy concern. Hopefully this will benefit to you all.
 
