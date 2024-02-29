@@ -10,7 +10,7 @@ After achived this procedures, you will get the powerful *Kali Linux USB Live Bo
 ## Prerequisites
 1. USB 3.0 (or above) Thumbdrive. I recommend to use at least 64GB.
 2. Personal Computer which running **Linux** e.g. *UBUNTU*, *Debian*, *Linux MINT*, or any distribution you love. BTW, I've not tested in Windows or *WSL2*, but I think it should be work as well.
-3. Download the *ISO* 64-bit from *LIVE Boot* segtion [https://www.kali.org/get-kali/#kali-live](https://www.kali.org/get-kali/#kali-live)
+3. Download the *ISO* 64-bit from *LIVE Boot* section [https://www.kali.org/get-kali/#kali-live](https://www.kali.org/get-kali/#kali-live)
 
 ## Let's get started
 If you don't want to walk alone, let's see this video and do it together!
