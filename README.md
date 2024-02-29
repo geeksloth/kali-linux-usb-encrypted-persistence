@@ -10,7 +10,7 @@ After achived this procedures, you will get the powerful *Kali Linux USB Live Bo
 ## Prerequisites
 1. USB 3.0 (or above) Thumbdrive. I recommend to use at least 64GB.
 2. Personal Computer which running **Linux** e.g. *UBUNTU*, *Debian*, *Linux MINT*, or any distribution you love. BTW, I've not tested in Windows or *WSL2*, but I think it should be work as well.
-3. Download the *ISO* 64-bit from [https://www.kali.org/get-kali/#kali-installer-images](https://www.kali.org/get-kali/#kali-installer-images)
+3. Download the *ISO* 64-bit from *LIVE Boot* segtion [https://www.kali.org/get-kali/#kali-live](https://www.kali.org/get-kali/#kali-live)
 
 ## Let's get started
 If you don't want to walk alone, let's see this video and do it together!
@@ -31,9 +31,9 @@ sudo ls /dev/sd*
 The above command, you just try to run it before and after inserting the USB Thumbdrive to see the difference result.
 
 
-3. Copy the whole data and partitions to the USB. This might take a while depends on your USB thumbdrive speed:
+3. Copy the whole data and partitions to the USB. This might take a while depends on your USB thumbdrive speed. Dont forget to change the file name to your downloaded one:
 ```bash
-sudo dd if=kali-linux-2023.4-live-amd64.iso of=/dev/sda conv=fsync bs=4M
+sudo dd if=kali-linux-2024.1-live-amd64.iso of=/dev/sda conv=fsync bs=4M
 ```
 ```bash
 sudo fdisk /dev/sda <<< $(printf "n\np\n\n\n\nw")
