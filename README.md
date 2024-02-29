@@ -82,8 +82,8 @@ sudo cryptsetup luksClose /dev/mapper/my_usb
 ## Congratulation!
 You just finished this tutorial. Just close everthing and pull off the *USB Thumbdrive*, which is now called **Kali Linux USB Live Boot Encrypted Persistence**, from the *PC*. Then let's try it by yourself!
 
-**Share with love:** I made this tutorial and related videos with a mindset of *sharing*, *educational purposes*, myself (and yourself) security and privacy. Hopefully this will benefit to you all.
+**Share with love:** I made this tutorial and related videos with a heart of *sharing*, *educational purposes*, myself (and yourself) security and privacy concern. Hopefully this will benefit to you all.
 
 **If you like this**, don't forget to *hit a like* on the youtube videos, and subscribe for more great stuffs at [https://youtube.com/@geeksloth](https://youtube.com/@geeksloth)
 
-*disclaimer* many parts in this tutorial are refered from the official document from [Kali Linux Docs](https://www.kali.org/docs/usb/usb-persistence-encryption/)
+*Ps,* many parts in this tutorial are refered from the official document from [Kali Linux Docs](https://www.kali.org/docs/usb/usb-persistence-encryption/)
